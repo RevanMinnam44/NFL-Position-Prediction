@@ -8,6 +8,7 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 1️⃣ Full Package Implementation (Easiest, Uses Libraries)
 
 🔹 Packages Used: pandas, numpy, sklearn, random, math
+
 🔹 Description:
 
 	•	Implements Logistic Regression using scikit-learn (sklearn).
@@ -22,19 +23,34 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 2️⃣ Partially Restricted Version (No numpy or sklearn, Only pandas, math, random)
 
 🔹 Packages Used: pandas, math, random
+
 🔹 Description:
+
 	•	Implements Logistic Regression manually without sklearn.
+ 
 	•	Uses pandas for data handling and math for numerical operations.
+ 
 	•	Feature scaling, gradient descent, and stochastic updates done manually.
+ 
 	•	Best accuracy achieved: ~94%
 
 3️⃣ Pure Python Implementation (No External Libraries)
 
 🔹 Packages Used: None! (Only built-in open() for file reading)
+
 🔹 Description:
+
 	•	Fully manual Logistic Regression model.
+ 
 	•	Reads CSV files without pandas using open().
+ 
 	•	Manually implements feature scaling (Robust Scaling).
+ 
 	•	Implements Gradient Descent (SGD) with Adaptive Learning Rate.
+ 
 	•	Uses Fisher-Yates shuffle instead of random.shuffle().
-	•	Best accuracy achieved: ~32%
+
+	•	Best accuracy achieved: ~30-50%
+
+ 	•	Note: I will continue to improve the accuracy.
+ 
