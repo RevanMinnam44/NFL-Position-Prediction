@@ -9,6 +9,7 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 
 🔹 Packages Used: pandas, numpy, sklearn, random, math
 🔹 Description:
+
 	•	Implements Logistic Regression using scikit-learn (sklearn).
  
 	•	Uses pandas for data handling and numpy for numerical computations.
