@@ -42,15 +42,13 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 
 	•	Fully manual Logistic Regression model.
  
-	•	Reads CSV files without pandas using open().
+	•	Reads CSV files without pandas.
  
-	•	Manually implements feature scaling (Robust Scaling).
+	•	Manually implements feature scaling (Robust Scaling & Z-Score Scaling).
  
 	•	Implements Gradient Descent (SGD) with Adaptive Learning Rate.
  
 	•	Uses Fisher-Yates shuffle instead of random.shuffle().
 
-	•	Best accuracy achieved: ~30-50%
-
- 	•	Note: I will continue to improve the accuracy.
+	•	Best accuracy achieved: ~90%
  
