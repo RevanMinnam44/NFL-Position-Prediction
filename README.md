@@ -9,7 +9,6 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 
 🔹 Packages Used: pandas, numpy, sklearn, random, math
 
-🔹 Description:
 
 	•	Implements Logistic Regression using scikit-learn (sklearn).
  
@@ -24,7 +23,6 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 
 🔹 Packages Used: pandas, math, random
 
-🔹 Description:
 
 	•	Implements Logistic Regression manually without sklearn.
  
@@ -38,7 +36,6 @@ This project demonstrates how to implement Logistic Regression from scratch at t
 
 🔹 Packages Used: None! (Only built-in open() for file reading)
 
-🔹 Description:
 
 	•	Fully manual Logistic Regression model.
  
